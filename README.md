@@ -24,14 +24,19 @@ From Basic Stats:
 
 From RFM Segmentation
 Using RFM scores 5 segments 
+
 •	(B Creator) Best Creators
+
 •	(HSN Creator) High - Earning New Creators
+
 •	(LSAL Creator) Lowest-Profitable Active Loyal Creators (At Risk creator)
+
 •	(P Creators) Potential creators
+
 •	(Cb Creator) Churned Best creators
 
  
 
 I’ve defined them briefly below. Here 2 LSAL creators with us for a long time they are even in DB scan’s important cluster but there GMV are not high or possibly their price of sell is high. We should communicate with them. 
 
-*Detailed analysis is below or I urge one to have a look into attached jupyter notebook file
+*Detailed analysis is in Report file or I urge one to have a look into attached jupyter notebook file
