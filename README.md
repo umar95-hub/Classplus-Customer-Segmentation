@@ -1,4 +1,5 @@
 # SEGMENTATION AND EDA OF CLASS PLUS GMV DATA SET
+*Detailed analysis is in Report file or I urge one to have a look into attached jupyter notebook file
 
 Primary Objective:
 The objective of this case study is to analyse this data and come up with insights, highlighting the good things, bad things, cohorts of patterns found or cohorts of customers you can classify.
@@ -39,4 +40,4 @@ Using RFM scores 5 segments
 
 I’ve defined them briefly below. Here 2 LSAL creators with us for a long time they are even in DB scan’s important cluster but there GMV are not high or possibly their price of sell is high. We should communicate with them. 
 
-*Detailed analysis is in Report file or I urge one to have a look into attached jupyter notebook file
+
